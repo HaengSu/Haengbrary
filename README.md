@@ -23,7 +23,7 @@
 
     - 권한 요청
       ```kotlin
-      SDPermission(this).requestPermission()
+       HPermission(this).requestPermission()
       ```
  
 ---
