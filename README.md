@@ -1,6 +1,11 @@
 # HaengBrary
   - The Happiness Library is a collection of features that everyone can use when building Android apps.
 
+-- 
+
+## Quick Start
+    implementation 'com.haeng.haengbrary:utils:1.0.0'
+    implementation 'com.haeng.haengbrary:appinitialize:1.0.0'
 
 ---
 
