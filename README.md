@@ -15,7 +15,7 @@
 ---
 
 ## Appinitialize
-- version : 1.0.0   (2024/03/06)
+- version : 1.0.0   (2024/03/28)
 - 앱 초기화(첫 시작)시에 사용해야 하는 기능이 있는 라이브러리 
 - 항목
   - Permission
@@ -37,3 +37,14 @@
       ```
  
 ---
+
+## Utils
+- version : 1.0.0   (2024/03/29)
+- 앱 사용중 필요한 utils를 모아둔 라이브러리
+
+- 항목
+  - ClearEdittext
+    ```xml
+    <com.haeng.haegnbrary.utils.ClearEditText
+    .../>
+    ```
