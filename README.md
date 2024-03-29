@@ -4,8 +4,13 @@
 -- 
 
 ## Quick Start
+    1. import haengbrary
     implementation 'com.haeng.haengbrary:utils:1.0.0'
     implementation 'com.haeng.haengbrary:appinitialize:1.0.0'
+
+    2. use haengbrary
+    //permission
+    HPermission(this).requestPermission()
 
 ---
 
